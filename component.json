@@ -4,7 +4,6 @@
   "main": "moment.js",
   "description": "Parse, validate, manipulate, and display dates in javascript.",
   "files": [
-    "moment.js",
     "lang/ar-ma.js",
     "lang/ar.js",
     "lang/bg.js",
